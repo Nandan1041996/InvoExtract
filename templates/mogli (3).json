@@ -1,0 +1,29 @@
+{
+    "Vendor": "Mogli Labs (India) Pvt Ltd",
+    "Vendor GSTIN No": "24AAJCM7312H1ZK",
+    "Vendor PAN No": "AAJCM7312H",
+    "Buyer": "GHCL Limited",
+    "Buyer's GSTIN No": "24AAACG5609C1Z5",
+    "Buyer PAN No": "AAACG5609C",
+    "Invoice No": "24112600003359",
+    "Customer Order No": "4850016025",
+    "Invoice Date": "2025-05-15",
+    "item_lst": [
+        {
+            "item": 1,
+            "S.No": "1",
+            "Description of Goods": "NON ASBESTOS\nGLAND PACKING.12\nMM SQ.DISC : NON\nASBESTOS GLAND\nPACKING.TYPE :\nARATEF-422SIZE : 12\nSQMMMAKE /\nMANUFACTURER :\nASIATIC SEALENT\nTECH.ARATEF - 422\nNON ASBESTOS\nBRAIDED\nGLANDPACKINGS\nMADE 100% PURE\nPTFE YARN WITH\nEDGEREINFORCEM\nENT OF ABRASION\nRESISTANCE\nARAMID YARNS\n(Brand: Generic)\nCPN: 2304020039",
+            "HSN": "84841090",
+            "Qty": "10.0",
+            "Unit": "Kg\n(OTH)",
+            "": "",
+            "Unit\nPrice": "4650.0",
+            "Taxable\nTotal": "46500",
+            "CGST\n%": "9 %",
+            "CGST\nAmount": "4185",
+            "SGST\n%": "9 %",
+            "SGST\nAmount": "4185",
+            "Amount": "54870"
+        }
+    ]
+}
